@@ -1,0 +1,6 @@
+8601|True Life Songs and Pictures|86 (the band)|Rock|The debut album rocks and twangs in equal measure.|14.95
+jr01|Genuine Wood Grained Finish|Joe Rut|Folk|This well-crafted album is unique and cohesive, revealing its many layers on repeated listens.|14.95
+pf01|The first CD|Paddlefoot|rock|This 68-minute opus from Paddlefoot does not pull any punches.|12.55
+pf02|The second CD|Paddlefoot|rock|The second CD finds the band maturing as it roams through much of the same musical terrain as the previous CD.|12.85
+gb02|Really Really Good Music|Good Band|Other|The best of the rest|21.0
+gb01|Really Good Music|Good Band|Country|The best country album|21.2
